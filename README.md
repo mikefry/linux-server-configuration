@@ -174,13 +174,13 @@ to include installing updates, securing it from a number of attack vectors and i
 
 ### References
 
-https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
-https://discussions.udacity.com/t/problems-with-the-digital-ocean-tutorial/336376/3
-https://discussions.udacity.com/t/fsnd-connecting-to-aws-server-for-linux-project/387260
-https://discussions.udacity.com/t/i-try-to-run-the-catalog-but-its-gave-me-error/362607/55
-https://discussions.udacity.com/t/not-able-to-access-using-grader-user/478351
-http://askubuntu.com/questions/323131/setting-timezone-from-terminal
-http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/
-https://httpd.apache.org/docs/current/mod/mod_alias.html#alias
-https://manpages.debian.org/jessie/apache2/a2ensite.8.en.html
-http://docs.sqlalchemy.org/en/latest/core/engines.html
+  - https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+  - https://discussions.udacity.com/t/problems-with-the-digital-ocean-tutorial/336376/3
+  - https://discussions.udacity.com/t/fsnd-connecting-to-aws-server-for-linux-project/387260
+  - https://discussions.udacity.com/t/i-try-to-run-the-catalog-but-its-gave-me-error/362607/55
+  - https://discussions.udacity.com/t/not-able-to-access-using-grader-user/478351
+  - http://askubuntu.com/questions/323131/setting-timezone-from-terminal
+  - http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/
+  - https://httpd.apache.org/docs/current/mod/mod_alias.html#alias
+  - https://manpages.debian.org/jessie/apache2/a2ensite.8.en.html
+  - http://docs.sqlalchemy.org/en/latest/core/engines.html
